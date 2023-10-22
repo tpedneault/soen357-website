@@ -20,7 +20,7 @@ console.log(mockups);
       <div>Innovation at Seniority goes beyond connecting individuals. We harness the power of artificial intelligence to foster a supportive digital environment. Meet Earl, your friendly AI chatbot, always at your service to assist in navigating the application. Whether you need help joining a community, starting a conversation, or finding an event to attend, Earl is here to guide you every step of the way. Our innovative use of technology aims to eliminate any barriers to enjoying a fulfilling social life online.</div>
       <div>Seniority is not just a platform; it’s a doorway to a world where every story is cherished, every hobby is celebrated, and every interaction is a step towards forging meaningful connections. We invite you to join us in this exciting endeavor, as we redefine what social engagement means for the elderly. Your journey of exploration and friendship begins with Seniority, where every day brings new stories to share, lessons to learn, and friendships to forge. Welcome to a community where your wisdom is valued, your interests are shared, and your stories live on. Welcome to Seniority.</div>
     </div>
-    <div class="px-32 pt-12 font-jakarta flex flex-col gap-2">
+    <div class="px-32 pt-8 font-jakarta flex flex-col gap-2">
       <div class="font-bold text-xl mb-1.5 text-indigo-500">Relevant Statistics</div>
       <div>Here are some of our findings regarding the target population. These facts and statistics were used during the development of our design to come up with a user flow targeted towards the elderly.</div>
       <ul class="list-disc">
