@@ -1,0 +1,39 @@
+{
+    "Mockups": [
+        {
+            "Title": "Finding a Community",
+            "Image": "browser.png",
+            "Description": "This section is designed to allow the user to find and join communities. Based on the communities the user is already a part of, the recommendation section will automatically update itself to reflect the user's interests. Large buttons, image, and high contrasts fonts are used in order to help the user identify the community."
+        },
+        {
+            "Title": "Community Dashboard",
+            "Image": "dashboard.png",
+            "Description": "This section is designed to allow the user to interact with the community. It contains buttons to access the different sections of the community, and a feed where all upcoming events, new blog posts and announcements are posted."
+        },
+        {
+            "Title": "Chat",
+            "Image": "earl.png",
+            "Description": "This section is designed for users to chat with each other, as well as communicate with Earl. There are two ways to access this page, either by clicking another user's profile, or by pressing the search bar in any of the other windows. The interface will automatically be adjusted depending on if the other person is a user or the chatbot. This design decision was made to reinforce the social aspect of the platform, we want users to understand they can speak to the chatbot as if it was just any other user. Our intended users are not familiar with artificial intelligence, therefore it needs to be presented in a way they can understand."
+        },
+        {
+            "Title": "Blogs",
+            "Image": "blogs.png",
+            "Description": "This section is designed for users to view and interact with a community's blog post. In order to create or comment on blog posts, the users will interact with Earl. Through a conversation with the chatbot, they will be prompted with all the information that is required to contribute to the community. If the user is looking for a specific blog post, or to filter the list by a certain field. They will prompt Earl who will make the modifications to the listings."
+        },
+        {
+            "Title": "Members",
+            "Image": "members.png",
+            "Description": "This section is designed for users to find other users within their community. They scroll through the list in alphabetical order, or communicate with Earl to find the person they wish to connect with."
+        },
+        {
+            "Title": "Lobbies",
+            "Image": "lobbies.png",
+            "Description": "This section is designed for users to find lobbies they may join, showing the ones currently happening at the top."
+        },
+        {
+            "Title": "Lobby",
+            "Image": "lobby.png",
+            "Description": "This section is designed to show all the important information in a lobby. A lobby is composed of different sections. The first one is the speaker window. A lobby is hosted by a moderator, who will be able to select a speaker. Embedded within the speaker window, a speech-to-text module will automatically convert what the speaker is saying to text, and add it as a chat bubble at the bottom of the window. This is to help users with hearing issues to still get involved in the lobby. At the bottom of the screen is a reaction section, non-speakers are able to interact with the speaker by pressing the reactions."
+        }
+    ]
+}

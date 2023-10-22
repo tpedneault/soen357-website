@@ -1,0 +1,53 @@
+{
+    "Personas": [
+      {
+        "Name": "Active Alice",
+        "Age": 72,
+        "Background": "Recently retired school teacher, widowed with 3 grown children living out of state.",
+        "Interests": ["Gardening", "Bird watching", "Volunteering at the local animal shelter", "Attending church services"],
+        "TechSavviness": "Moderate",
+        "Goals": [
+          "Discover online communities of garden enthusiasts.",
+          "Attend virtual church services and prayer groups.",
+          "Engage in discussions about animal welfare."
+        ],
+        "Challenges": [
+          "May struggle with navigating complex app interfaces.",
+          "Concerned about online privacy and security."
+        ]
+      },
+      {
+        "Name": "Curious Carl",
+        "Age": 68,
+        "Background": "Former engineer, married, with a love for lifelong learning and travel.",
+        "Interests": ["History", "Travel documentaries", "Model train building", "Playing chess"],
+        "TechSavviness": "High",
+        "Goals": [
+          "Join discussions and attend virtual panels on historical events.",
+          "Participate in virtual chess tournaments.",
+          "Share and view photos and stories from travel enthusiasts."
+        ],
+        "Challenges": [
+          "Might find a lack of intellectually stimulating discussions frustrating.",
+          "Hearing impairment requires app to have good audio quality and captioning features."
+        ]
+      },
+      {
+        "Name": "Social Susan",
+        "Age": 75,
+        "Background": "Former nurse, widowed, enjoys spending time with friends and being part of a community.",
+        "Interests": ["Cooking", "Knitting", "Book clubs", "Community service"],
+        "TechSavviness": "Low",
+        "Goals": [
+          "Connect with old friends and make new ones with similar interests.",
+          "Attend virtual book club meetings and cooking classes.",
+          "Participate in discussions related to community service projects."
+        ],
+        "Challenges": [
+          "Needs a simple, intuitive app interface.",
+          "May require assistance or tutorials to get comfortable with the app."
+        ]
+      }
+    ]
+  }
+  
