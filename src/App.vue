@@ -70,8 +70,17 @@ console.log(mockups);
         These design decisions, based from our personas, enable people who are unfamiliar with technology and the more technically savy people to use the application the way they want to.
       </div>
     </div>
+    <div class="px-32 pt-8 font-jakarta flex flex-col gap-4">
+      <div class="font-bold text-xl mb-1.5 text-indigo-500">User Flow</div>
+      <img class="mx-auto w-[40%]" src="@/assets/flow_1.png"/>
+      <img class="mx-auto w-[40%]" src="@/assets/flow_2.png"/>
+      <img class="mx-auto w-[40%]" src="@/assets/flow_3.png"/>
+    </div>
     <div class="px-32 pt-8 font-jakarta flex flex-col">
       <div class="font-bold text-xl mb-1.5 text-indigo-500">User Journeys</div>
+      <img class="mx-auto w-[50%]" src="@/assets/journey_1.png"/>
+      <img class="mx-auto w-[50%]" src="@/assets/journey_2.png"/>
+      <img class="mx-auto w-[50%]" src="@/assets/journey_3.png"/>
     </div>
     <div class="px-32 pt-8 font-jakarta flex flex-col">
       <div class="font-bold text-xl mb-1.5 text-indigo-500">Initial Design</div>
